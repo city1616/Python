@@ -37,3 +37,5 @@ phone = "123456789"
 print(phone[-4:])
 
 print("test!test!test!")
+
+print("test!!test!!test!!")
