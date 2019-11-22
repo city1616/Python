@@ -35,3 +35,5 @@ for i in range(3, -1, -1):
 
 phone = "123456789"
 print(phone[-4:])
+
+print("test!test!test!")
