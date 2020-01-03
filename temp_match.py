@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.image as img
 
-path = "/Users/seungwoomun/Desktop/testData/"
+path = "/Users/seungwoomun/Documents/Study/Python/testData/"
 trainData = np.zeros((20*16, 8))
 meanData = np.zeros((20*16, 10))
 
