@@ -3,7 +3,7 @@ import matplotlib.image as imgg
 from PIL import Image as img
 
 path = "/Users/seungwoomun/Documents/Study/Python/testData/"
-path2 = "/Users/seungwoomun/Documents/Study/Python/testData/"
+path2 = "/Users/seungwoomun/Documents/Study/Python/"
 trainData = np.zeros((20*16, 7))
 meanData = np.zeros((20*16, 5))
 
